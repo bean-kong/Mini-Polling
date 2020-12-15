@@ -75,3 +75,69 @@
 
 
 #### Database Architecture
+
+: Entity 간의 관계만 틀리지 않았다면 Table 생성은 JPA에서 Create 해주기 때문에 따로 ER Diagram은 작성하지 않았습니다. 다만 생성 후 원하는 형태로 생성되었는지 데이터베이스와 생각했던 Entity 들과의 매칭을 체크해봐야함!!
+
+<br/>
+
+
+
+#### UI Design
+
+: 전체적인 디자인은 일반적인 웹페이지 게시판의 형태를 띄고 있습니다. 
+
+* 처음 접속화면
+![ui1](https://user-images.githubusercontent.com/31160622/102196091-c3a83f80-3f02-11eb-95ad-eb2e1c6d31d7.PNG)
+
+: 간단한 어플리케이션을 소개하는 문구를 메인으로 위와 같은 디자인을 생각하고 있습니다. 
+
+<br/>
+
+
+* 설문등록화면
+![ui2](https://user-images.githubusercontent.com/31160622/102196149-d91d6980-3f02-11eb-9fc0-817bca218045.PNG)
+
+: 객관식, 주관식을 선택해서 질문을 추가할 수 있으며 이를 바탕으로 등록
+
+<br/>
+
+
+* 설문목록 화면
+![ui3](https://user-images.githubusercontent.com/31160622/102196162-db7fc380-3f02-11eb-9de6-f29bb4f89f67.PNG)
+
+: 현재까지 등록된 설문 목록들을 볼 수 있으며 설문을 참여하지 않았을 경우 참여가, 참여하였을 경우 결과가 화면에 띄어집니다.
+
+  또한 원하는 내용을 바탕으로 검색을 진행할 수 있습니다.
+  
+<br/>
+
+
+* 메인화면 상단의 메뉴 (로그인 하였을 경우)
+![ui5](https://user-images.githubusercontent.com/31160622/102196180-e0dd0e00-3f02-11eb-9e27-e094cae2e3ec.PNG)
+
+: 위의 그림처럼 로그아웃과 내설문목록을 확인할 수 있습니다.
+
+<br/>
+
+
+* 메인화면 상단의 메뉴 (로그인 하지 않았을 경우)
+![ui4](https://user-images.githubusercontent.com/31160622/102196175-de7ab400-3f02-11eb-95d6-11f448f2a159.PNG)
+
+: 위의 그림처럼 로그인과 회원가입을 확인할 수 있습니다.
+
+<br/>
+
+
+* 회원가입
+![ui6](https://user-images.githubusercontent.com/31160622/102196191-e5a1c200-3f02-11eb-818e-965ac095c4a8.PNG)
+
+: 회원가입에 필요한 사항을 입력한 후 간단하게 username 중복검사만 거친 후 회원가입을 진행할 수 있습니다.
+
+<br/>
+
+
+
+* 로그인
+![ui7](https://user-images.githubusercontent.com/31160622/102196206-e9cddf80-3f02-11eb-9610-c13b6bfb3765.PNG)
+
+: 로그인화면입니다!
