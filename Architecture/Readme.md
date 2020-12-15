@@ -67,3 +67,11 @@
 
 #### 위의 Diagram 을 바탕으로 Attribute 를 추가한 class diagram
 ![class_Digram](https://user-images.githubusercontent.com/31160622/102184972-aa4bc700-3ef3-11eb-89c3-6f1ba7ed97e9.png)
+
+**위의 결과물에 대해서 확신이 들지 않으므로 리뷰시간 후 피드백을 바탕으로 수정할 것!!**
+
+<br/>
+
+
+
+#### Database Architecture
