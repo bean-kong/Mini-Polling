@@ -66,4 +66,4 @@
 
 
 #### 위의 Diagram 을 바탕으로 Attribute 를 추가한 class diagram
-![class_Digram](https://user-images.githubusercontent.com/31160622/102184731-43c6a900-3ef3-11eb-9913-60fb71133878.png)
+![class_Digram](https://user-images.githubusercontent.com/31160622/102184972-aa4bc700-3ef3-11eb-89c3-6f1ba7ed97e9.png)
