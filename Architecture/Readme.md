@@ -71,7 +71,7 @@
 
 -> 투표를 위한 녀석을 따로 만들어주고 다대다 관계를 풀어줄 수 있어야해!!
 
-![최종클다](https://user-images.githubusercontent.com/31160622/102216985-4939e880-3f1f-11eb-9b81-66a5495c46ad.png)
+![최종클다](https://user-images.githubusercontent.com/31160622/102217070-6a023e00-3f1f-11eb-8976-aab6b8d922e6.png)
 
 <br/>
 
