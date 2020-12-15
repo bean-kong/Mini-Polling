@@ -63,3 +63,7 @@
 또 한가지 의문점은 생성(has)의 관계에서는 회원과 설문은 일 대 다 관계인 것 같으나 투표(vote)의 관계에서 생각하면 회원과
 
 <br/>
+
+
+#### 위의 Diagram 을 바탕으로 Attribute 를 추가한 class diagram
+![class_Digram](https://user-images.githubusercontent.com/31160622/102184731-43c6a900-3ef3-11eb-9913-60fb71133878.png)
