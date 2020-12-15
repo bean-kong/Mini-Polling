@@ -65,6 +65,18 @@
 <br/>
 
 
+### 추가사항!
+
+: 문제점을 발견! 회원이 설문을 만드는 데는 일대다 관계가 맞으나 회원이 설문을 투표하는 데에는 다대다 관계야! 
+
+-> 투표를 위한 녀석을 따로 만들어주고 다대다 관계를 풀어줄 수 있어야해!!
+
+![최종클다](https://user-images.githubusercontent.com/31160622/102216985-4939e880-3f1f-11eb-9b81-66a5495c46ad.png)
+
+<br/>
+
+
+
 #### 위의 Diagram 을 바탕으로 Attribute 를 추가한 class diagram
 ![class_Digram](https://user-images.githubusercontent.com/31160622/102184972-aa4bc700-3ef3-11eb-89c3-6f1ba7ed97e9.png)
 
