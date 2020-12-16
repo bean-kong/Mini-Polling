@@ -80,6 +80,17 @@
 #### 위의 Diagram 을 바탕으로 Attribute 를 추가한 class diagram
 ![class_Digram](https://user-images.githubusercontent.com/31160622/102184972-aa4bc700-3ef3-11eb-89c3-6f1ba7ed97e9.png)
 
+
+<br/>
+
+
+#### 현재까지 최종수정 본
+![final_](https://user-images.githubusercontent.com/31160622/102294254-3c071300-3f8c-11eb-84df-af75a1116314.png)
+
+<br/>
+
+
+
 **위의 결과물에 대해서 확신이 들지 않으므로 리뷰시간 후 피드백을 바탕으로 수정할 것!!**
 
 <br/>
@@ -88,7 +99,9 @@
 
 #### Database Architecture
 
-: Entity 간의 관계만 틀리지 않았다면 Table 생성은 JPA에서 Create 해주기 때문에 따로 ER Diagram은 작성하지 않았습니다. 다만 생성 후 원하는 형태로 생성되었는지 데이터베이스와 생각했던 Entity 들과의 매칭을 체크해봐야함!!
+: 오늘까지 들은 피드백을 바탕으로 E-R Diagram 최종 그릴 것
+
+  ( 상속이 남아있다면 JPA 상속 매핑 방법 중 Single Table 방법 사용. MappedSuperclass, Single table, Joined table, Table per class 등 여러 방법이 있으나 그 중 가장 성능상에서 이점을 보이는 것은 Single table이며 default 옵션이기도 하기에 선택)
 
 <br/>
 
