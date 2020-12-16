@@ -50,7 +50,7 @@
 
 
 
-#### Database Scheam
+#### Database Schema
 
 : 해당 E-R Diagram을 바탕으로 구성한 데이터베이스 스키마
 
