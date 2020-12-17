@@ -88,6 +88,7 @@ const element = (
 개념적으로 컴포넌트는 Javascript 함수와 유사해. props라고 하는 임의의 입력을 받은 후 화면에 어떻게 표시되는지를 기술하는 React 엘리먼트를 반환하는거야.
 
 <br/>
+
 * 함수컴포넌트
 
 ```javascript
@@ -110,3 +111,15 @@ class Welcome extends React.Componenet{
  이렇게 ES6 Class를 사용하여 컴포넌트를 정의할 수 있고 이런 형태를 클래스 컴포넌트라고해.
  
  참고로 React의 관점에서 보면 두가지 유형의 컴포넌트는 동일해.
+
+<br/>
+
+
+
+**컴포넌트 렌더링**
+
+: React 앨리먼트는 사용자 정의 컴포넌트로도 나타낼 수 있어. 예를들어 아래처럼
+```javascript
+const element = <Welcome name="Sara"/>;
+```
+React가 사용자 정의 컴포넌트로 작성한 엘리먼트를 발견하면 JSX 어트리뷰트와 자식을 해당 컴포넌트에 단일 객체로 전달해. 이 객체를 'props'라고 해.
