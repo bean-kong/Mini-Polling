@@ -54,4 +54,5 @@
 
 : 해당 E-R Diagram을 바탕으로 구성한 데이터베이스 스키마
 
-![schema](https://user-images.githubusercontent.com/31160622/102334192-bc9c3280-3fd1-11eb-80e3-ee826f684cdf.png)
+![revised_schema](https://user-images.githubusercontent.com/31160622/102472416-a22d8c00-4099-11eb-8ab7-0480dae88a92.png)
+
