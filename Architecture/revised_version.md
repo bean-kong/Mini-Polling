@@ -23,9 +23,10 @@
 
 
 
-#### 도메인 설계 (피드백 반영 1차 수정본)
+#### 도메인 설계 (2차 수정본)
 
-![revised_classdiagram](https://user-images.githubusercontent.com/31160622/102334719-5a8ffd00-3fd2-11eb-8bd4-b1b5c0af51c8.png)
+![real_final_class](https://user-images.githubusercontent.com/31160622/102601860-12084900-4164-11eb-8c39-e8a683be1131.png)
+
 
 **수정사항**
 * 관계를 나타내는 애가 불필요한 속성을 가지고 있다 -> 제거 및 수정
